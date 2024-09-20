@@ -1,5 +1,6 @@
 Algoritmo "troco"
 
+//o programa pega valor unitario, quantidade comprada,  dinheiro recebido, e verifica se o dinheiro é suficiente ou não
 
 Var
 
@@ -8,7 +9,7 @@ Var
   
 Inicio
 
-      escreva("Qual o valor unit�rio do produto: ")
+      escreva("Qual o valor unitário do produto: ")
       leia(preco)
       escreva("Quantidade comprada: ")
       leia(quantidade)

@@ -1,5 +1,7 @@
 algoritmo "validacao_de_nota"
 
+\\Codigo que pede duas notas e verifica os valores de cada uma, após isso imprime a média
+
 var
 
 nota1, nota2, media : real

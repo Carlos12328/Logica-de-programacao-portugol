@@ -21,6 +21,6 @@ escreva ("digite o valeAlimentacao: ")
 
 total <- salario + valeTransporte + valeAlimentacao
 
-escreva("o valor total de tudo é: " , salario , " + " , valeTransporte , " + " , valeAlimentacao , " = " , total)
+escreva("o valor total de tudo Ã©: " , salario , " + " , valeTransporte , " + " , valeAlimentacao , " = " , total)
 
 fimalgoritmo

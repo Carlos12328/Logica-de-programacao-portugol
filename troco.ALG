@@ -1,12 +1,14 @@
 Algoritmo "troco"
 
+//programa que pega o valor do produto, quantidade e dinheiro recebido e calcula o troco
+
 Var
 
     preco, quantidade, dinheiro, troco : real
 
 Inicio
 
-     escreva("Pre�o unit�rio do produto: ")
+     escreva("Preço unitário do produto: ")
      leia(preco)
      escreva("Quantidade comprada: ")
      leia(quantidade)
@@ -14,7 +16,7 @@ Inicio
      leia(dinheiro)
 
      troco <- dinheiro - preco * quantidade
-
-     escreva("TROCO = ", troco:4:2)
+     //troco 4:2 é um número que tem 4 casas e 2 casas decimais 
+     escreva("troco = ", troco:4:2)
 
 Fimalgoritmo
